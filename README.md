@@ -1,1 +1,1 @@
-https://github.com/horizon1989/rsschool-cv/cv
+https://github.com/horizon1989/rsschool-cv/cv.md
