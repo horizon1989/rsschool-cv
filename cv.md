@@ -1,5 +1,5 @@
- # CV
- ## Artem Dubenec 
+# CV
+## Artem Dubenec 
     
 <img src="https://hhcdn.ru/photo/639221331.jpeg?t=1640196695&h=o0c5tXVaQZER21AYpGGJeQ" alt="drawing" width="300" />
 
