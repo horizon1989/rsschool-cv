@@ -10,6 +10,8 @@
 ### About me: 
 I work as a system administrator in the health sector
 
+### Skils:
+SQL, HTML, CSS, Java (basic), Python (basic)
 ### Education: 
 MGTU, Faculty of applied informatics
 
