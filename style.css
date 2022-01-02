@@ -5,7 +5,12 @@
 body{
     background-color: black;
     font-family: "Ubuntu", sans-serif;
-    border: 1px solid red;
+    border: 20px solid orange;
+    min-height: 100vh;
+    margin: 0; padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 
